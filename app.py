@@ -1,7 +1,7 @@
 
 import streamlit as st
 from imapclient import IMAPClient
-import pyzmail
+import pyzmail36
 
 st.set_page_config(page_title="Leitor de Emails da Corte", page_icon="📨")
 st.title("📨 Leitor de Emails da Corte de Imigração")
